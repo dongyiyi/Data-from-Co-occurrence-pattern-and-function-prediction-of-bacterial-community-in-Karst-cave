@@ -12,7 +12,7 @@ GENERAL INFORMATION
 		Name: Yeedong
 		Institution: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 		Address: Mengla, Yunnan, China
-		Email: dongyee007@126.com
+		Email: dongyiyi@xtbg.ac.cn
 
 	B. Alternate Contact Information
 		Name: Qingbei Weng
