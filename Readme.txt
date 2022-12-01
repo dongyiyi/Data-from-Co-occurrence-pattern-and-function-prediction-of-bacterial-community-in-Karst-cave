@@ -9,10 +9,10 @@ GENERAL INFORMATION
 
 2. Author Information
 	A. Principal Investigator Contact Information
-		Name: Yeedong
+		Name: Yiyidong
 		Institution: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 		Address: Mengla, Yunnan, China
-		Email: dongyiyi@xtbg.ac.cn
+		Email: yeedong009@gmail.com
 
 	B. Alternate Contact Information
 		Name: Qingbei Weng
