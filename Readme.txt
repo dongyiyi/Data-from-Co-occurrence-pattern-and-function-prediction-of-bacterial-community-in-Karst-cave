@@ -20,7 +20,7 @@ GENERAL INFORMATION
 		Address: Guiyang, Guizhou, China
 		Email: wengqingbei@gznu.edu.cn
 
-3. Date of data collection (single date, range, approximate date) <suggested format YYYY-MM-DD>: 2016-12 
+3. Date of data collection (single date, range, approximate date): 2016-12 
 
 4. Geographic location of data collection <latitude, longiute, or city/region, State, Country, as appropriate>: Zhijin cave is located in Guizhou Province in China (26º38′31″-26º52′35″N, 105º44′42″-106º11′38″E)
 
