@@ -1,4 +1,7 @@
-﻿This DATSETNAMEreadme.txt file was generated on 2020-4-28 by Yiyi Dong.
+link to paper
+https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01806-7
+
+This DATSETNAMEreadme.txt file was generated on 2020-4-28 by Yiyi Dong.
  
  For the published "Co-occurrence pattern and function prediction of bacterial community in Karst cave" on BMC Microbiology.
  
